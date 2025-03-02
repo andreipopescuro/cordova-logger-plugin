@@ -1,0 +1,37 @@
+{
+  "name": "cordova-logger-plugin",
+  "version": "0.0.1",
+  "description": "Cordova Plugin Logger",
+  "keywords": [
+    "cordova",
+    "logger",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": {
+    "cordovaDependencies": {
+      "0.0.1": {
+        "cordova-ios": ">=7.0.0",
+        "cordova-android": ">=13.0.0"
+      }
+    }
+  },
+  "cordova": {
+    "id": "cordova-logger-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreipopescuro/cordova-logger-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andreipopescuro/cordova-logger-plugin/issues"
+  },
+  "homepage": "https://github.com/andreipopescuro/cordova-logger-plugin#readme",
+  "author": "Andrei Popescu",
+  "license": "MIT"
+}
