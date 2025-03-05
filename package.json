@@ -1,6 +1,6 @@
 {
   "name": "cordova-logger-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cordova Plugin Logger",
   "keywords": [
     "cordova",
@@ -11,7 +11,7 @@
   ],
   "engines": {
     "cordovaDependencies": {
-      "0.0.1": {
+      "0.0.2": {
         "cordova-ios": ">=7.0.0",
         "cordova-android": ">=13.0.0"
       }
