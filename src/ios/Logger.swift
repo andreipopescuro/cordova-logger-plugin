@@ -1,6 +1,4 @@
 import UIKit
-import Cordova
-
 
 @objc(Logger) class Logger: CDVPlugin {
     @objc(log:)
